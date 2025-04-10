@@ -1,0 +1,11 @@
+Flask
+gspread
+google-auth
+google-auth-oauthlib
+requests
+Jinja2
+Werkzeug
+itsdangerous
+click
+MarkupSafe
+gunicorn
